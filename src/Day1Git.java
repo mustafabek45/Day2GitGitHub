@@ -5,6 +5,7 @@ public class Day1Git {
         System.out.println("Hello Git 2. deneme");
         System.out.println("Hello Git 3. deneme");
         System.out.println("Hello Git 4. deneme");
+        System.out.println("Hello Git 5. deneme");
 
 
 
